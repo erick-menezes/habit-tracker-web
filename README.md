@@ -17,17 +17,19 @@ You can run the project in your own machine following these steps:
 
 ```
 git clone https://github.com/erick-menezes/habit-tracker-server.git
-
-or just click on Code button and download/extract the ZIP folder.
 ```
+
+*or just click on Code button and download/extract the ZIP folder.*
 
 2. Install the dependencies
 
 ```
 npm install
+```
 
 or
 
+```
 yarn
 ```
 
@@ -35,4 +37,10 @@ yarn
 
 ```
 npm run dev
+```
+
+or
+
+```
+yarn dev
 ```
