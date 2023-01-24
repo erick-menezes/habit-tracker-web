@@ -1,6 +1,17 @@
-<h1>Habits</h1>
+<h1 align="center">Habits - A Habit tracker</h1>
 
 <img src=".github/habit-tracker-cover.png" alt="Habit Tracker Cover" />
+
+<h3 align="center">Índice</h3>
+
+<p align="center">
+  <a href="#about">About</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#technologies">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#how-to-run-the-project">How to run the project</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#see-more">See more</a>
+</p>
+
+## About
 
 <p>Habits is an application developed at NLW Setup, event created by Rocketseat.</p>
 
@@ -8,7 +19,9 @@
 
 <img src=".github/homepage-example.png" alt="Homepage example with a popover showing a day with habits completed and uncompleted." />
 
-## Main technologies
+## Technologies
+
+<p>This app was made using this technologies:</p>
 
 - React
 - TailwindCSS
@@ -51,7 +64,7 @@ yarn dev
 
 **Note: You might need to run the server as well to load the info from the API.**
 
-***See more:***
+### See more:
 
-[Habit Tracker Mobile](https://github.com/erick-menezes/habit-tracker-mobile)
+[Habit Tracker Mobile](https://github.com/erick-menezes/habit-tracker-mobile) ·
 [Habit Tracker Server](https://github.com/erick-menezes/habit-tracker-server)
