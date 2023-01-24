@@ -5,13 +5,14 @@
 <h3 align="center">Índice</h3>
 
 <p align="center">
-  <a href="#about">About</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#technologies">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#how-to-run-the-project">How to run the project</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#see-more">See more</a>
+  <a href="#ℹ-about">About</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-technologies">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-how-to-run-the-project">How to run the project</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-see-more">See more</a>
 </p>
 
-## About
+## ℹ About
 
 <p>Habits is an application developed at NLW Setup, event created by Rocketseat.</p>
 
@@ -19,14 +20,14 @@
 
 <img src=".github/app-image.png" alt="Homepage example with a popover showing a day with habits completed and uncompleted." />
 
-## Technologies
+## ⚙ Technologies
 
 <p>This app was made using this technologies:</p>
 
 - React
 - TailwindCSS
 
-## How to run the project
+## ❓ How to run the project
 
 You can run the project in your own machine following these steps:
 
@@ -64,7 +65,13 @@ yarn dev
 
 **Note: You might need to run the server as well to load the info from the API.**
 
-### See more:
+## 🎨 Layout
 
-[Habit Tracker Mobile](https://github.com/erick-menezes/habit-tracker-mobile) ·
-[Habit Tracker Server](https://github.com/erick-menezes/habit-tracker-server)
+You can see this project layout in Figma. [Click here to view](https://www.figma.com/community/file/1195327109778210238).
+
+**Note: You need an account on Figma to access.**
+
+## ➕ See more
+
+- [Habit Tracker Mobile](https://github.com/erick-menezes/habit-tracker-mobile)
+- [Habit Tracker Server](https://github.com/erick-menezes/habit-tracker-server)
