@@ -17,7 +17,11 @@
 
 <p>This app can be used to write and track your day habits and make sure you can complete them every day.</p>
 
-<img src=".github/app-image.png" alt="Homepage example with a popover showing a day with habits completed and uncompleted." />
+<img src=".github/calendar.png" alt="Image of a calendar with habits filled in some weekdays." />
+
+<img src=".github/habit-creation.png" alt="Image of the form used to create a habit." />
+
+<img src=".github/habits-preview.png" alt="Image of the Popover that appears showing your habits when selecting a day on calendar." />
 
 ## Technologies
 
