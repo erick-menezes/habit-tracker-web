@@ -31,44 +31,6 @@
 - React
 - TailwindCSS
 
-## ❓ How to run the project
-
-You can run the project in your own machine following these steps:
-
-1. Clone this repository
-
-```
-git clone https://github.com/erick-menezes/habit-tracker-server.git
-```
-
-*or just click on Code button and download/extract the ZIP folder.*
-
-2. Install the dependencies
-
-```
-npm install
-```
-
-or
-
-```
-yarn
-```
-
-3. Run the project
-
-```
-npm run dev
-```
-
-or
-
-```
-yarn dev
-```
-
-**Note: You might need to run the server as well to load the info from the API.**
-
 ## 🎨 Layout
 
 You can see this project layout in Figma. [Click here to view](https://www.figma.com/community/file/1195327109778210238).
